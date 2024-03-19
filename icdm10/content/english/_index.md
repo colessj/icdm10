@@ -15,26 +15,36 @@ features:
     image: "/images/service-1.png"
     content: "The overall theme of the ICDM10 in Durham is **Data Qualtiy** and why it matters."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Make the most of good diffraction data"
+      - "Get new insights into the chemistry"
+      - "Go beyond the standard"
+      - "Setting new standards"
+
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
+  - title: "The Venue: Durham University Business School"
+    image: "/images/service-1.png"
+    content: "The building has been recently renovated and is situated in green surroundings"
+    bulletpoints:
+      - "Make the most of good diffraction data"
+      - "Get new insights into the chemistry"
+      - "Go beyond the standard"
+      - "Setting new standards"
+
+
+
   - title: "Single-Stream Session"
     image: "/images/service-2.png"
     content: "There will be no parallel sessions."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Each day will have its own theme"
+      - "The first lecture is an ivited lecture and will provide a general-audience introduction"
+      - "There will be extended Poster Talk sessions with 5-7 minute talks"
     button:
-      enable: true
+      enable: false
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
 
@@ -42,10 +52,9 @@ features:
     image: "/images/service-3.png"
     content: "Durham University are offering an all-inclusive conference fee at competitive rates. Accomodation, breakfast, tea/coffe, lunch will all be included in the conference fee."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Accomodation in Collingwood College, near the conference venue"
+      - "Extra days of accomation can be booked"
+      - "You can opt out of the accomodation option"
     button:
       enable: false
       label: ""
