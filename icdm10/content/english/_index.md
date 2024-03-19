@@ -3,7 +3,7 @@
 banner:
   title: "ICDM10 Durham July 14<sup>th</sup> -- 17<sup>th</sup> 2025"
   content: "The International Charge Density Meeting will be held in Durham, UK in July 2025."
-  image: "/images/icdm10.jpg"
+  image: "/images/ICDM10.jpg"
   button:
     enable: false
     label: "Get Started For Free"
