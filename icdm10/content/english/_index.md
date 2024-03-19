@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "ICDM10 Durham July 14<sup>th</sup> -- 17<sup>th</sup> 2025"
-  content: "The International Charge Density Meeting will be held in Durham, UK in July 2025."
+  title: "ICDM10 Durham<br>July 14<sup>th</sup>-- 17<sup>th</sup> 2025"
+  content: "**The International Charge Density Meeting will be held in Durham, UK in July 2025.**"
   image: "/images/ICDM10.jpg"
   button:
     enable: false
