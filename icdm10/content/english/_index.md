@@ -4,10 +4,10 @@ banner:
   title: "ICDM10 Durham July 14<sup>th</sup> -- 17<sup>th</sup> 2025"
   content: "The International Charge Density Meeting will be held in Durham, UK in July 2025."
   image: "/images/gallery/icdm10.jpg"
-  # button:
-  #   enable: true
-  #   label: "Get Started For Free"
-  #   link: "https://github.com/zeon-studio/hugoplate"
+  button:
+    enable: false
+    label: "Get Started For Free"
+    link: "https://github.com/zeon-studio/hugoplate"
 
 # Features
 features:
@@ -38,9 +38,9 @@ features:
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "All-inclusive conference fee"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Durham University are offering an all-inclusive conference fee at competitive rates. Accomodation, breakfast, tea/coffe, lunch will all be included in the conference fee."
     bulletpoints:
       - "Instantly load static sites for better user experience and SEO."
       - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
