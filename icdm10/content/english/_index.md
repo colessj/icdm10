@@ -12,13 +12,12 @@ banner:
 # Features
 features:
   - title: "Data Quality Matters"
-    image: "/images/service-1.png"
+    image: "/images/gallery/quality.png"
     content: "The overall theme of the ICDM10 in Durham is **Data Qualtiy** and why it matters."
     bulletpoints:
       - "Make the most of good diffraction data"
       - "Get new insights into the chemistry"
       - "Go beyond the standard"
-      - "Setting new standards"
 
     button:
       enable: false
@@ -26,22 +25,25 @@ features:
       link: "#"
 
   - title: "The Venue: Durham University Business School"
-    image: "/images/service-1.png"
+    image: "/images/gallery/venue.png"
     content: "The building has been recently renovated and is situated in green surroundings"
     bulletpoints:
-      - "Make the most of good diffraction data"
-      - "Get new insights into the chemistry"
-      - "Go beyond the standard"
-      - "Setting new standards"
+      - "Situated among the Hill Colleges, to the south of Durham city centre"
+      - "Spacious and open lecture theatre"
+      - "Surrounded by green spaces"
+      - "Large terrace for socialising"
 
-
+    button:
+      enable: false
+      label: "Get Started Now"
+      link: "#"
 
   - title: "Single-Stream Session"
-    image: "/images/service-2.png"
+    image: "/images/gallery/stream.jpg"
     content: "There will be no parallel sessions."
     bulletpoints:
-      - "Each day will have its own theme"
-      - "The first lecture is an ivited lecture and will provide a general-audience introduction"
+      - "Each morning and afternoon will have its own theme"
+      - "The first lecture of each section provides a general-audience introduction to the theme"
       - "There will be extended Poster Talk sessions with 5-7 minute talks"
     button:
       enable: false
@@ -49,12 +51,13 @@ features:
       link: "https://github.com/zeon-studio/hugoplate"
 
   - title: "All-inclusive conference fee"
-    image: "/images/service-3.png"
+    image: "/images/gallery/dinner.jpg"
     content: "Durham University are offering an all-inclusive conference fee at competitive rates. Accomodation, breakfast, tea/coffe, lunch will all be included in the conference fee."
     bulletpoints:
       - "Accomodation in Collingwood College, near the conference venue"
       - "Extra days of accomation can be booked"
       - "You can opt out of the accomodation option"
+      - "Confernece dinner in Durham Castle"
     button:
       enable: false
       label: ""
