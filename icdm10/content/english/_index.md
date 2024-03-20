@@ -31,7 +31,7 @@ features:
       - "Situated among the Hill Colleges, to the south of Durham city centre"
       - "Spacious and open lecture theatre"
       - "Surrounded by green spaces"
-      - "Large terrace for socialising"
+      - "Large terrace for enjoying the Durham sun and socialising"
 
     button:
       enable: false
