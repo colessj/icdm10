@@ -50,9 +50,9 @@ features:
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
 
-  - title: "All-inclusive conference fee"
+  - title: "All-inclusive conference package"
     image: "/images/gallery/dinner.jpg"
-    content: "Durham University offers an all-inclusive conference fee at competitive rates. Accommodation, breakfast, tea/coffee, and lunch will all be included in the conference fee."
+    content: "Durham University offers an all-inclusive conference package at competitive rates. Accommodation, breakfast, tea/coffee, and lunch will all be included in the conference fee."
     bulletpoints:
       - "Accommodation in Collingwood College, near the conference venue"
       - "Extra days of accommodation can be booked"
