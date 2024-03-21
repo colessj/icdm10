@@ -56,7 +56,7 @@ features:
     bulletpoints:
       - "Accommodation in Collingwood College, near the conference venue"
       - "Extra days of accommodation can be booked"
-      - "You can opt out of the accommodation option"
+      - "You can opt out of option"
       - "Conference dinner in Durham Castle"
     button:
       enable: false
