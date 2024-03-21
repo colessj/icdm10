@@ -48,7 +48,7 @@ features:
     button:
       enable: true
       label: "Proposed Topics"
-      link: "topics"
+      link: "authors/topics"
 
   - title: "All-inclusive conference package"
     image: "/images/gallery/dinner.jpg"

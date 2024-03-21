@@ -18,9 +18,8 @@ weight = 2
 
 [[main]]
 name = "Topics"
-url = "topics/"
+url = "authors/topics/"
 weight = 3
-
 
 [[main]]
 weight = 4
@@ -37,15 +36,20 @@ hasChildren = true
 # name = "Contact"
 # url = "contact/"
 
-[[main]]
-parent = "Pages"
-name = "Organisers"
-url = "authors/"
+# [[main]]
+# parent = "Pages"
+# name = "Authors "
+# url = "authors/"
 
 [[main]]
 parent = "Pages"
-name = "Topics"
-url = "topics/"
+name = "Organisers "
+url = "authors/organisers/"
+
+[[main]]
+parent = "Pages"
+name = "Topics "
+url = "authors/topics/"
 
 # [[main]]
 # parent = "Pages"
