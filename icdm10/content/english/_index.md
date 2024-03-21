@@ -13,7 +13,7 @@ banner:
 features:
   - title: "Data Quality Matters"
     image: "/images/gallery/quality.png"
-    content: "The overall theme of the ICDM10 in Durham is **Data Qualtiy** and why it matters."
+    content: "The overall theme of the ICDM10 in Durham is **Data Quality** and why it matters."
     bulletpoints:
       - "Make the most of good diffraction data"
       - "Get new insights into the chemistry"
@@ -42,7 +42,7 @@ features:
     image: "/images/gallery/stream.jpg"
     content: "There will be no parallel sessions."
     bulletpoints:
-      - "Each morning and afternoon will have its own theme"
+      - "Each morning and afternoon will have its special theme"
       - "The first lecture of each section provides a general-audience introduction to the theme"
       - "There will be extended Poster Talk sessions with 5-7 minute talks"
     button:
@@ -52,12 +52,12 @@ features:
 
   - title: "All-inclusive conference fee"
     image: "/images/gallery/dinner.jpg"
-    content: "Durham University are offering an all-inclusive conference fee at competitive rates. Accomodation, breakfast, tea/coffe, lunch will all be included in the conference fee."
+    content: "Durham University offers an all-inclusive conference fee at competitive rates. Accommodation, breakfast, tea/coffee, and lunch will all be included in the conference fee."
     bulletpoints:
-      - "Accomodation in Collingwood College, near the conference venue"
-      - "Extra days of accomation can be booked"
-      - "You can opt out of the accomodation option"
-      - "Confernece dinner in Durham Castle"
+      - "Accommodation in Collingwood College, near the conference venue"
+      - "Extra days of accommodation can be booked"
+      - "You can opt out of the accommodation option"
+      - "Conference dinner in Durham Castle"
     button:
       enable: false
       label: ""
