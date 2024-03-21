@@ -26,7 +26,7 @@ features:
 
   - title: "The Venue: Durham University Business School"
     image: "/images/gallery/venue.png"
-    content: "The building has been recently renovated and is situated in green surroundings"
+    content: "The building has been recently renovated and is located in green surroundings"
     bulletpoints:
       - "Situated among the Hill Colleges, to the south of Durham city centre"
       - "Spacious and open lecture theatre"
