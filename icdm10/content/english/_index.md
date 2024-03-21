@@ -42,8 +42,8 @@ features:
     image: "/images/gallery/stream.jpg"
     content: "There will be no parallel sessions."
     bulletpoints:
-      - "Each morning and afternoon will have its special theme"
-      - "The first lecture of each section provides a general-audience introduction to the theme"
+      - "Each morning and afternoon will have its special topic"
+      - "The first lecture of each section provides a general-audience introduction to the topic"
       - "There will be extended Poster Talk sessions with 5-7 minute talks"
     button:
       enable: false
