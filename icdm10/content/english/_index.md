@@ -46,9 +46,9 @@ features:
       - "The first lecture of each section provides a general-audience introduction to the topic"
       - "There will be extended Poster Talk sessions with 5-7 minute talks"
     button:
-      enable: false
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      enable: true
+      label: "Proposed Topics"
+      link: "topics"
 
   - title: "All-inclusive conference package"
     image: "/images/gallery/dinner.jpg"

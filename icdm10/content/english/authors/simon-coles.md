@@ -1,6 +1,6 @@
 ---
-title: John Doe
-email: johndoe@email.com
+title: Simon Coles
+email: S.J.Coles@soton.ac.uk
 image: "/images/avatar.png"
 description: this is meta description
 social:

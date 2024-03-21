@@ -16,10 +16,16 @@ weight = 2
 # url = "elements/"
 # weight = 3
 
-# [[main]]
-# weight = 4
-# name = "Pages"
-# hasChildren = true
+[[main]]
+name = "Topics"
+url = "topics/"
+weight = 3
+
+
+[[main]]
+weight = 4
+name = "Pages"
+hasChildren = true
 
 # [[main]]
 # parent = "Pages"
@@ -31,10 +37,15 @@ weight = 2
 # name = "Contact"
 # url = "contact/"
 
-# [[main]]
-# parent = "Pages"
-# name = "Authors"
-# url = "authors/"
+[[main]]
+parent = "Pages"
+name = "Organisers"
+url = "authors/"
+
+[[main]]
+parent = "Pages"
+name = "Topics"
+url = "topics/"
 
 # [[main]]
 # parent = "Pages"

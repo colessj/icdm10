@@ -1,6 +1,6 @@
 ---
-title: William Jacob
-email: williamjacob@email.com
+title: Niklas Ruth
+email: paul.n.ruth@durham.ac.uk
 image: "/images/avatar.png"
 description: this is meta description
 social:

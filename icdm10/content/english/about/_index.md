@@ -2,7 +2,7 @@
 title: "Local Organisation"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/castle.png"
+image: "/images/castle-grey.png"
 draft: false
 ---
 
