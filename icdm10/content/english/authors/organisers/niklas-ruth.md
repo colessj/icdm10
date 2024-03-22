@@ -3,6 +3,7 @@ title: Niklas Ruth
 email: paul.n.ruth@durham.ac.uk
 image: "/images/avatar.png"
 description: this is meta description
+draft: true
 social:
   - name: github
     icon: fa-brands fa-github
