@@ -1,3 +1,3 @@
 ---
-title: "Suggested Topics"
+title: "Proposed Topics"
 ---
