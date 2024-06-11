@@ -2,6 +2,7 @@
 title: "Atomic Displacement: The big accumulator"
 # meta title
 meta_title: ""
+weight: 10
 # meta description
 description: "Atomic Displacement: The big accumulator"
 # save as draft

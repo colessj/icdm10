@@ -2,6 +2,7 @@
 title: "Modern Data & Modern Models"
 # meta title
 meta_title: ""
+weight: 12
 # meta description
 description: "Why higher residuals are not necessarily a bad thing"
 # save as draft
