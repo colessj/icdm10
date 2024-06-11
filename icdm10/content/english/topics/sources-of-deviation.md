@@ -9,4 +9,4 @@ image: "/images/gallery/statistical_deviations.jpeg"
 draft: false
 ---
 
-Absoprtion, scaling, merging, error models and others
+Absorption, scaling, merging, error models and others
