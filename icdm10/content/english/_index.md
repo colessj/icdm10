@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "Data Quality Matters"
-    image: "/images/gallery/quality.png"
+    image: "/images/gallery/data_quality_matters.jpeg"
     content: "The overall theme of the ICDM10 in Durham is **Data Quality** and why it matters."
     bulletpoints:
       - "Make the most of good diffraction data"
