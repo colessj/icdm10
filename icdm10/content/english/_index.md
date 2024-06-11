@@ -5,9 +5,9 @@ banner:
   content: "**The International Charge Density Meeting will be held in Durham, UK in July 2025.**"
   image: "/images/ICDM10.jpg"
   button:
-    enable: false
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    enable: true
+    label: "Proposed Topics"
+    link: "topics"
 
 # Features
 features:
@@ -48,7 +48,7 @@ features:
     button:
       enable: true
       label: "Proposed Topics"
-      link: "authors/topics"
+      link: "topics"
 
   - title: "All-inclusive conference package"
     image: "/images/gallery/dinner.jpg"
