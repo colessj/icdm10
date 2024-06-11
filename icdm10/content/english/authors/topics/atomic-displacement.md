@@ -5,6 +5,8 @@ meta_title: ""
 # meta description
 description: "Atomic Displacement: The big accumulator"
 # save as draft
+image: "/images/gallery/accumulator_1.jpeg"
+
 draft: false
 ---
 

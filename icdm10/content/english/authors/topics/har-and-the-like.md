@@ -5,6 +5,7 @@ meta_title: ""
 # meta description
 description: "HAR-based methods"
 # save as draft
+image: "/images/gallery/hirshfeld.jpeg"
 draft: false
 ---
 

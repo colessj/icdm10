@@ -6,6 +6,6 @@ meta_title: ""
 description: "Large scale facilities and data handling"
 # save as draft
 draft: false
-image: "/images/gallery/large-facilities.jpg"
+image: "/images/gallery/large_scale.jpeg"
 ---
 
