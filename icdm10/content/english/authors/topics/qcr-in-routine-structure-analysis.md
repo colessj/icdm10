@@ -5,6 +5,8 @@ meta_title: ""
 # meta description
 description: "What can QCr bring to routine structures?"
 # save as draft
+image: "/images/gallery/routine.jpeg"
+
 draft: false
 ---
 
