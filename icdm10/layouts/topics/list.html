@@ -1,6 +1,16 @@
 {{ define "main" }}
-  {{ partial "page-header" . }}
+{{ partial "page-header" . }}
 
+
+<section>
+  <div class="container">
+    <div class="row justify-center">
+      <div class="md:col-10 lg:col-7 text-center">
+        <div class="content">{{ .Content }}</div>
+      </div>
+    </div>
+  </div>
+</section>
 
   <section class="section">
     <div class="container">
